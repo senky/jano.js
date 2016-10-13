@@ -8,7 +8,7 @@ Now, imagine you are a composer. A famous one. Do you already hear a new song ar
 
 "How would I do that?" Man, jano.js is here for you.
 
-## Example first
+## [Example first](https://senky.github.io/jano.js/index.html)
 ```javascript
 new jano(1, 300).play(function(){
 	this.play()
@@ -43,7 +43,7 @@ If specified, timespan between this tone and next one will be `timeout`ms. Other
 In order to fire your melody up, call `start()` method. Thats it. Enjoy and share!
 
 ## Showcase
-- Kohutík jarabí (melody of simplest Slovak song)
+- [Kohutík jarabí](https://senky.github.io/jano.js/kohutik.html) (melody of simplest Slovak song)
 
 Have you composed a cripsy melody to share with the world? Send a Pull Request adding link to your melody here in the showcase list!
 
