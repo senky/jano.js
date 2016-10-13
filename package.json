@@ -1,0 +1,12 @@
+{
+  "name": "jano.js",
+  "version": "1.0.0",
+  "description": "Transforms callback hell into tuneful heaven.",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/senky/jano.js.git"
+  },
+  "main": "index.js",
+  "author": "Jakub Senko <jakubsenko@gmail.com> (https://github.com/senky)",
+  "license": "MIT"
+}

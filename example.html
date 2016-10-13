@@ -1,0 +1,11 @@
+<script src="node_modules/howler/src/howler.core.js"></script>
+<script src="index.js"></script>
+<script>
+  new jano(1, 300).play(function(){
+    this.play()
+  }, function(){
+    this.play(function(){
+      this.play()
+    })
+  }).start()
+</script>
