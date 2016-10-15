@@ -1,5 +1,5 @@
 # jano.js
-jano.js transforms [callback hell](http://callbackhell.com/) into tuneful heaven. The true reason why programmers started to use this nasty word "hell" is, they have never found a pleasure in callbacks. jano.js allows you to enjoy every single callback nesting. The more, the better!
+jano.js transforms [callback hell](http://callbackhell.com/) into tuneful heaven. The true reason why programmers started to use this nasty word "hell" is, they have never found a pleasure in callbacks. jano.js allows you to enjoy every single callback nesting by turning it into melody. The more nesting, the better!
 
 ## Why woud I use this?
 You love music. Or do you read this text in silence? :O
